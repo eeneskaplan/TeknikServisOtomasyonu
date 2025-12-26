@@ -3,7 +3,7 @@ Teknik Servis Takip Otomasyonu
 
 Bu proje, teknik servis işletmelerinin müşteri, cihaz ve arıza takiplerini dijital ortamda yönetmelerini sağlayan kapsamlı bir C# Windows Forms otomasyonudur. Veritabanı olarak PostgreSQL kullanılmış olup, Trigger ve Stored Procedure gibi ileri seviye veritabanı mimarileriyle desteklenmiştir.
 
-Özellikler
+Özellikler:
 
 Kullanıcı Girişi: Admin/Personel girişi ile güvenli erişim.
 
