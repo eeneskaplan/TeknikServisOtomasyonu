@@ -6,7 +6,7 @@ using System.Windows.Forms;
 public class DbHelper
 {
     
-    private string connectionString = "Host=localhost;Port=5432;Username=postgres;Password=E.kaplan04;Database=TeknikServisDb";
+    private string connectionString = "Host=localhost;Port=5432;Username=postgres;Password=1234;Database=TeknikServisDb"; //Password kısmını kendi pgadmin şifrenizle değiştiriniz.
 
    
     public DataTable GetTable(string query, NpgsqlParameter[] parameters = null)
